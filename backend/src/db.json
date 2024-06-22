@@ -1,0 +1,74 @@
+{
+  "submissions": [
+    {
+      "name": "shivam",
+      "email": "adc@gmail.com",
+      "phone": "9876543210",
+      "githubLink": "https://github.com/shivamverma26",
+      "stopwatchTime": "00:00:07.8992128"
+    },
+    {
+      "name": "djada",
+      "email": "dad@gmail.com",
+      "phone": "9876543210",
+      "githubLink": "https://github.com/shivamverma26",
+      "stopwatchTime": "00:00:24.1633546"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "555-1234",
+      "githubLink": "https://github.com/alicejohnson",
+      "stopwatchTime": "00:15:30"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "555-1234",
+      "githubLink": "https://github.com/alicejohnson",
+      "stopwatchTime": "00:15:30"
+    },
+    {
+      "name": "qwerty",
+      "email": "adc@gmsil.com",
+      "phone": "9876543210",
+      "githubLink": "https://github.com/shivamverma26",
+      "stopwatchTime": "00:00:04.6234430"
+    },
+    {
+      "name": "shubh",
+      "email": "abc@gmail.com",
+      "phone": "9876543210",
+      "githubLink": "https://portfolios-del-shivam.netlify.app/",
+      "stopwatchTime": "00:00:23.4021193"
+    },
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "phone": "9876543210",
+      "githubLink": "john@gmail.com",
+      "stopwatchTime": "00:00:07.1143444"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "555-1234",
+      "githubLink": "https://github.com/alicejohnson",
+      "stopwatchTime": "00:15:30"
+    },
+    {
+      "name": "qwerty",
+      "email": "asdc@gmail.com",
+      "phone": "9876543210",
+      "githubLink": "http://localhost:3000/readAll",
+      "stopwatchTime": "00:00:03.4270365"
+    },
+    {
+      "name": "awesome",
+      "email": "awesome@gmail.com",
+      "phone": "1234567890",
+      "githubLink": "https://www.linkedin.com/in/shivamverma61/",
+      "stopwatchTime": "00:00:03.1636343"
+    }
+  ]
+}
